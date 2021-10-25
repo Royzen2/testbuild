@@ -1,0 +1,1 @@
+build -b -f test.file.exe -release -v 1.3
